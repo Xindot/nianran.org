@@ -4,4 +4,3 @@
 
 ![Wechat](./WechatIMG601.jpeg){:style="width:200px;"}
 
-© [念然网络](https://www.nianran.net)
